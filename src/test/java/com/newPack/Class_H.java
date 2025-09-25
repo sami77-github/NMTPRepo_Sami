@@ -8,5 +8,6 @@ public class Class_H {
 		System.out.println("Updated by kaif ");
 		System.out.println("hi");
 		System.out.println("Updated second time by Harshali");
+		System.out.println("thursday");
 	}
 }
