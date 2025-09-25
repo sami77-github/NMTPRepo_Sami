@@ -1,4 +1,4 @@
-package Utility;
+package com.newPack;
 
 public class Gitusage {
 
