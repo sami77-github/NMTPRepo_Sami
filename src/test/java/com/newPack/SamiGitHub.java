@@ -13,6 +13,7 @@ public class SamiGitHub {
 		System.out.println("bye");
 		System.out.println("TL changed");
 		System.out.println("newOne");
+		System.out.println("new2One");
 	}
 	
 }
