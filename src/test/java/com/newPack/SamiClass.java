@@ -9,5 +9,6 @@ public class SamiClass {
 		System.out.println("2 line added");
 		System.out.println("tL changes");
 		System.out.println("12345");
+		System.out.println("2345678");
 	}
 }
