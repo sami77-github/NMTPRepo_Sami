@@ -4,5 +4,6 @@ public class SamiClass {
 
 	public void printName() {
 		System.out.println("Sami");
+		System.out.println("tl updates");
 	}
 }
