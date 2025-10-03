@@ -1,11 +1,10 @@
 package com.newPack;
 
-public class Program {
+public class Sample_mr {
 
 	public static void main(String[] args) {
-		System.out.println("Execute this class");
-
+		System.out.println("Sample_mr");
+		
 	}
 
 }
-

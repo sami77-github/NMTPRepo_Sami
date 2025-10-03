@@ -70,5 +70,4 @@ public class ListenerImplementation implements ISuiteListener, ITestListener {
 		System.out.println("===method is skipped===");
 		test.log(Status.SKIP, testName + " method is skipped");
 	}
-
 }
